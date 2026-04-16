@@ -60,6 +60,8 @@ index.html
 
 OR use **Live Server** in VS Code
 
+https://pawanpushkar.github.io/SCT_WD_3/
+
 ---
 
 ## 📸 Output Preview
